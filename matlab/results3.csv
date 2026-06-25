@@ -1,0 +1,4 @@
+#include "arm_math.h"
+#define numStages_high 2
+#define gain_high 4.982111e-01
+float32_t h_high[10]={1, -2, 1, 1.17999017, -0.520519972, 1, -1, 0, 0.475902259, -0};

@@ -1,0 +1,12 @@
+FUNC void save_array() {
+int array_length;
+int idx;
+array_length = 512;
+
+  exec("log > results.csv");
+  for (idx = 0; idx < array_length; idx++) {
+		printf ("%6.4f,%6.4f,%6.4f,%6.4f \n",x1[idx],x2[idx],x[idx],y_high[idx]);
+  }
+  exec("log off");
+	
+}

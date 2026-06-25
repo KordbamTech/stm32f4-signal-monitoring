@@ -1,0 +1,24 @@
+./objects/fastmathfunctions.o: \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\FastMathFunctions.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_cos_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_common_tables.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q15.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q31.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_sin_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q15.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q31.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q15.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q31.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_vexp_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FastMathFunctions\arm_vlog_f32.c

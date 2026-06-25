@@ -1,0 +1,4 @@
+#include "arm_math.h"
+#define numStages_low 2
+#define gain_low 5.257355e-04
+float32_t h_low[10]={1, 2, 1, 1.6778568, -0.776552439, 1, 2, 1, 1.44892478, -0.534154117};

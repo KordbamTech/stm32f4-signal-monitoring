@@ -1,0 +1,22 @@
+./objects/controllerfunctions.o: \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\ControllerFunctions.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_init_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  c:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_init_q15.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_init_q31.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_reset_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_reset_q15.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_pid_reset_q31.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_sin_cos_f32.c \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_common_tables.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h \
+  c:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ControllerFunctions\arm_sin_cos_q31.c
