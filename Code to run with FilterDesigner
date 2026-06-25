@@ -1,0 +1,25 @@
+fs  = 96000;          % Sampling frequency
+fp  = 16000;          % Passband edge
+fsb = 12000;          % Stopband edge
+Ap  = 1;              % Passband ripple (dB)
+As  = 30;             % Stopband attenuation (dB)
+
+Wp = fp/(fs/2);       % Normalised passband
+Ws = fsb/(fs/2);      % Normalised stopband
+
+[n, Wn] = buttord(Wp, Ws, Ap, As);
+[z,p,k] = butter(n, Wn, 'high');
+[sos, g] = zp2sos(z,p,k);
+
+data = readtable('resultshigh1.csv');
+
+%writematrix(sos, 'sos.csv');
+%writematrix(g,   'g.csv');
+
+% Assuming you already have these variables in your workspace:
+% x1, x2, x, y_high
+
+T = table(x1(:), x2(:), x(:), y_high(:), ...
+          'VariableNames', {'x1','x2','x','y_high'});
+
+writetable(T, 'resultshigh1_generated.csv');
